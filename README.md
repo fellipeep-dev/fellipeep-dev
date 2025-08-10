@@ -1,6 +1,3 @@
-<!-- Banner ou Imagem de Destaque -->
-![Header](https://i.imgur.com/z3KXJ8S.png) <!-- Você pode criar ou trocar essa imagem -->
-
 # 👋 Olá, eu sou o Fellipe Esteves Pereira
 
 💻 **Desenvolvedor Back-end**  
