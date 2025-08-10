@@ -14,16 +14,16 @@
 
 ---
 
+## 🚀 Tecnologias e Ferramentas
+
+![Tecnologias](https://skillicons.dev/icons?i=javascript,typescript,php,java,python,nestjs,postgresql,mysql,prisma,graphql,docker,git,linux&perline=6)
+
+---
+
 ## 🧑‍💻 Sobre mim
 Sou **graduado em Análise e Desenvolvimento de Sistemas** pela UNISUAM (2025) e apaixonado por tecnologia. Tenho experiência no desenvolvimento de APIs RESTful e GraphQL, modelagem de bancos de dados relacionais e aplicação de padrões de projeto e princípios SOLID.
 
 Além das habilidades técnicas, valorizo a comunicação, o trabalho em equipe e a capacidade de aprender rapidamente novas tecnologias.
-
----
-
-## 🚀 Tecnologias e Ferramentas
-
-![Tecnologias](https://skillicons.dev/icons?i=javascript,typescript,php,java,python,nestjs,postgresql,mysql,prisma,graphql,docker,git,linux&perline=6)
 
 ---
 
