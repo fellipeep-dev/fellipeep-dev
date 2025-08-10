@@ -9,7 +9,7 @@
 ## 📊 Estatísticas do GitHub
 <div align="center">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=fellipeep-dev&show_icons=true&theme=radical&count_private=true&hide_border=true" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fellipeep-dev&layout=compact&langs_count=8&theme=radical&hide_border=true" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fellipeep-dev&exclude_repo=Site---TeleCall&layout=compact&langs_count=8&theme=radical&hide_border=true" />
 </div>
 
 ---
