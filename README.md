@@ -55,5 +55,4 @@ Além das habilidades técnicas, valorizo a comunicação, o trabalho em equipe 
 ## 📫 Contato
 
 📧 **E-mail:** [fellipeep2005@gmail.com](mailto:fellipeep2005@gmail.com)  
-🐙 **GitHub:** [github.com/fellipeep-dev](https://github.com/fellipeep-dev)  
 💼 **LinkedIn:** [linkedin.com/in/fellipe-esteves-pereira-8a36b529b](https://www.linkedin.com/in/fellipe-esteves-pereira-8a36b529b/)
